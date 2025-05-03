@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+Icon?
+._*
+
+# Spotlight and Trash
+.Spotlight-V100
+.Trashes
+
+# Vim / Emacs / VSCode / general editor files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.~*
+.vscode/
+.idea/
+
+# Shell history or local-only config
+.history
+bash_history
+.zsh_history
+.env
